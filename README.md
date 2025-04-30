@@ -156,5 +156,3 @@ python tests/Stuttgart_Appointment/appoint_eAT.py
 ```
 
 ---
-
-Would you like this `README.md` saved into a file or added to your project folder automatically?
