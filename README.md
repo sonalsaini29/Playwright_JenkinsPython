@@ -1,5 +1,3 @@
-Here's a sample **`README.md`** file to guide the setup of a **Playwright + Jenkins + Python** automation system, including required files and structure:
-
 ---
 
 ## 🧪 Playwright + Jenkins + Python Automation Setup
