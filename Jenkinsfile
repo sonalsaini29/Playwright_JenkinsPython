@@ -6,8 +6,8 @@ pipeline {
     }
 
     environment {
-        VENV_PATH = "/Users/sonal/Playwright/venv"
-        SCRIPT_PATH = "/Users/sonal/Playwright/tests/your_script.py"
+        VENV_PATH = "/Users/sonal/Desktop/Playwright/playwright/venv"
+        SCRIPT_PATH = "/Users/sonal/Desktop/Playwright/playwright/tests/Stuttgart_Appointment/appoint_eAT.py"
     }
 
     stages {
