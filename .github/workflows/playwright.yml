@@ -30,7 +30,7 @@ jobs:
       - name: Run Python Playwright script
         run: |
           source venv/bin/activate
-          python path/to/appoint_eAT.py
+          python tests/Stuttgart_Appointment/appoint_eAT.py
 
       - name: Upload logs or results (if needed)
         if: always()
