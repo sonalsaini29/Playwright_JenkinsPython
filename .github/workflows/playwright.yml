@@ -30,7 +30,7 @@ jobs:
       - name: Run Python Playwright script
         run: |
           source venv/bin/activate
-          python tests/AMZ/test_login_amz.py --html=playwright-report/test-report.html
+          python tests/Stuttgart_Appointment/appoint_eAT.py  --html=playwright-report/test-report.html
 
       - name: Upload logs or results (if needed)
         if: always()
