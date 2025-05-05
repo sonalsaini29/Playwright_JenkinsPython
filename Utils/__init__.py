@@ -1,2 +1,1 @@
-from Utils import utils
-from Utils.webelements import AmazonHomePage
+# Utils/__init__.py
